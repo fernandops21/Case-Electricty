@@ -21,6 +21,9 @@ target: representação numérica da variável class. 1:UP, 2:DOWN
 
 ---
 
+O trabalho foi feito majoritariamente na linguagem python com jupyter notebook. Alguns gráficos foram feitos na linguagem R, com o pacote ggplot2. Todos os códigos se encontram no github. [https://github.com/fernandops21/Case-Genial] 
+
+---
 Conclusão
 
 Após testar alguns modelos de ML chegou-se a um resultado satisfatório através do algoritmo Random Forest. Um próximo passo seria testar algoritmos mais complexos como 
