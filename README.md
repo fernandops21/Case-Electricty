@@ -1,4 +1,4 @@
-# Case-Genial
+# Case-Electricity
 
 O seguinte case tem como objetivo analisar o preço da eletricidade nas cidades australianas de New South Whale e Victoria (referidas como NSW e VIC, respectivamente). 
 Nesse mercado em questão os preços não são fixados, flutuam a cada 5 minutos e são afetados pela oferta e demanda. 
